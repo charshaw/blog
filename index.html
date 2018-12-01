@@ -5,13 +5,11 @@ layout: default
 <div class="home">
  <div class="top card">
     <a class="email" href="mailto:{{site.email}}">{{site.email}}</a>
-    <p class="description">{{ site.description }}</p>
-    <a href="about" class="btn">Read More</a>
+    <p class="description">{{ site.description }}</p>  
   </div>
   <div class="posts card">
       <div class="card-content white-text">
-      <span class="card-title">Posts</span>
-
+      <span class="card-title">目录</span>
       <ul class="post-list">
         {% for post in site.posts %}
           <li>
@@ -20,8 +18,7 @@ layout: default
           </li>
         {% endfor %}
       </ul>
-
-      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+      
       </div>
    </div>
 
