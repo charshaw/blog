@@ -1,6 +1,4 @@
 title: CharShaw
-email: caoxiao_lcu@126.com
-description:  This is my test blog
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://charshaw.github.io/blog/" # the base hostname & protocol for your site
 
