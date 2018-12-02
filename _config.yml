@@ -1,6 +1,18 @@
-title: CharShaw
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://charshaw.github.io/blog/" # the base hostname & protocol for your site
+# Site settings Copy By Less Or More
+name: CharShaw
+email: caoxiao_lcu@126.com
+author: charshaw
+github: https://github.com/charshaw/
+baseurl: "/blog"
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 # Build settings
 markdown: kramdown
+
+
+
