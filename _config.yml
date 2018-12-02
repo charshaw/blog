@@ -3,7 +3,7 @@ name: CharShaw
 author: charshaw
 
 github: https://github.com/charshaw/
-baseurl: "/blog"
+baseurl: "/blog/categories"
 
 
 #permalink: /:categories/:year/:month/:day/:title/
