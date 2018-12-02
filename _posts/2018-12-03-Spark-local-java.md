@@ -6,6 +6,8 @@ categories: 大数据
 tag: spark编程
 ---
 
+
+
 Spark有多种部署方式，比如standalone、mesos、yarn(yarn-client yarn-cluster)
 
 spark还提供一种local模式，方便学习测试使用，最基本的代码如下，通过main函数能够启动一个SparkContext，用线程来模拟执行器，
