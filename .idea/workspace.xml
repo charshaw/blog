@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3682b2e1-6bb7-49da-b1ef-1c025489cb84" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-12-20-I-ve-Interviewed-100s-of-Candidates-and-the-Ones-I-Hire-Always-Do-This.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-08-27-how-to-use-this-jekyll-theme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-06-08-change-the-comment-provider-to-yuntentie.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-24-abandon-the-comment-feature.md" beforeDir="false" />
-    </list>
+    <list default="true" id="3682b2e1-6bb7-49da-b1ef-1c025489cb84" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,18 +23,30 @@
       <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="115" selection-start-line="5" selection-start-column="115" selection-end-line="5" selection-end-column="115" />
+            <state relative-caret-position="120">
+              <caret line="8" column="44" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="44" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-12-03-Spark-functions-expr.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/styles/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="2859" column="13" lean-forward="true" selection-start-line="2859" selection-start-column="13" selection-end-line="2859" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-12-03-Spark-functions-expr.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-12-03-Spark-functions-expr.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="465">
-                <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+              <first_editor relative-caret-position="540">
+                <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
               </first_editor>
               <second_editor />
             </state>
@@ -87,6 +93,7 @@
       <find>navbar-nav</find>
       <find>.name</find>
       <find>class=&quot;banner&quot;</find>
+      <find>navbar-right</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -291,12 +298,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543719032121</updated>
-      <workItem from="1543719033634" duration="11707000" />
+      <workItem from="1543719033634" duration="12029000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11707000" />
+    <option name="totallyTimeSpent" value="12029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="103" y="145" width="1680" height="972" extended-state="0" />
@@ -496,13 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="3262" column="11" selection-start-line="3262" selection-start-column="11" selection-end-line="3262" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/banner.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -577,20 +577,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="115" selection-start-line="5" selection-start-column="115" selection-end-line="5" selection-end-column="115" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-03-Spark-functions-expr.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="465">
-            <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+          <first_editor relative-caret-position="540">
+            <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="2859" column="13" lean-forward="true" selection-start-line="2859" selection-start-column="13" selection-end-line="2859" selection-end-column="13" />
         </state>
       </provider>
     </entry>
