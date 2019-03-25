@@ -11,9 +11,7 @@ tag: ETL
 
     * Spoon 允许通过图形界面来设计ETL转换过程
 
-![spoon]({{ '/styles/images/kettle_spoon.jpg' | prepend: site.baseurl  }} =200x)
-
-<img style="width:50px;height:50px" src="{{ '/styles/images/kettle_spoon.jpg' | prepend: site.baseurl  }}"  alt="spoon" align=center />
+![spoon]({{ '/styles/images/kettle_spoon.jpg' | prepend: site.baseurl  }})
 
     * Pan 允许批量运行有Spoon设计的ETL转换。后台执行程序，没有图形界面
     * CHEF 允许创建Job。
