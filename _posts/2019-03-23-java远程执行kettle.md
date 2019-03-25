@@ -13,6 +13,8 @@ tag: ETL
 
 ![spoon]({{ '/styles/images/kettle_spoon.jpg' | prepend: site.baseurl  }} =200x)
 
+<img style="width:50px;height:50px" src="{{ '/styles/images/kettle_spoon.jpg' | prepend: site.baseurl  }}"  alt="spoon" align=center />
+
     * Pan 允许批量运行有Spoon设计的ETL转换。后台执行程序，没有图形界面
     * CHEF 允许创建Job。
     * Kitchen 允许批量使用由Chef设计的任务，kitchen也是后台程序
