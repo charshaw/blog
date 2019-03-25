@@ -10,7 +10,9 @@ tag: ETL
    ketlle是一款开源的ELT工具，包括Spoon Pan CHEF Kitchen。
 
     * Spoon 允许通过图形界面来设计ETL转换过程
-![spoon]({{ 'https://charshaw.github.io/blog/styles/images/kettle_spoon.jpg' }})
+
+![spoon]({{ '/styles/images/kettle_spoon.jpg' | prepend: site.baseurl  }})
+
     * Pan 允许批量运行有Spoon设计的ETL转换。后台执行程序，没有图形界面
     * CHEF 允许创建Job。
     * Kitchen 允许批量使用由Chef设计的任务，kitchen也是后台程序
